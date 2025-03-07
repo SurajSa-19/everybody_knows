@@ -1,1 +1,1 @@
-this is the begining of a hero. The hero is me.
+this is the beginning of a hero. The hero is me.
